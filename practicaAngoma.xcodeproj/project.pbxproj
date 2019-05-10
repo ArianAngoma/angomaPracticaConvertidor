@@ -13,6 +13,7 @@
 		3C14585222861BEA0000FAA2 /* practicaAngoma.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3C14585022861BEA0000FAA2 /* practicaAngoma.xcdatamodeld */; };
 		3C14585422861BEB0000FAA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C14585322861BEB0000FAA2 /* Assets.xcassets */; };
 		3C14585722861BEB0000FAA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C14585522861BEB0000FAA2 /* LaunchScreen.storyboard */; };
+		3CB401262286302D001DA9F7 /* CalcularViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB401252286302D001DA9F7 /* CalcularViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3C14585322861BEB0000FAA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C14585622861BEB0000FAA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C14585822861BEB0000FAA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CB401252286302D001DA9F7 /* CalcularViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcularViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3C14585522861BEB0000FAA2 /* LaunchScreen.storyboard */,
 				3C14585822861BEB0000FAA2 /* Info.plist */,
 				3C14585022861BEA0000FAA2 /* practicaAngoma.xcdatamodeld */,
+				3CB401252286302D001DA9F7 /* CalcularViewController.swift */,
 			);
 			path = practicaAngoma;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CB401262286302D001DA9F7 /* CalcularViewController.swift in Sources */,
 				3C14584C22861BEA0000FAA2 /* ViewController.swift in Sources */,
 				3C14585222861BEA0000FAA2 /* practicaAngoma.xcdatamodeld in Sources */,
 				3C14584A22861BEA0000FAA2 /* AppDelegate.swift in Sources */,
